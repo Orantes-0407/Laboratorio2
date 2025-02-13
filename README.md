@@ -1,4 +1,4 @@
-# Laboratorio2
+# Laboratorio2 Preguntas:
 
 1.¿Para qué crees que se usan los operadores lógicos en programación?
 Los operadores lógicos son utilizados en la programación ya que se usan para hacer comparaciones y evaluar expresiones booleanas.
