@@ -1,0 +1,1 @@
+"Enunciado 1:Para determinar la categoria de una persona segun su edad utilizaria la estructura if-else, ya que me permite a¤adir reglas, que en su casi si no se cumplen los datos de almacenan en diferentes categorias y llevar un cierto orden." 
