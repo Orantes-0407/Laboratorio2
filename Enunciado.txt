@@ -1,0 +1,1 @@
+"Para el enunciado 3 usaria la estructura if else ya que puedo establecer condiciones en el que se establece un nombre de usuario y contrase¤a, siento que es la opcion mas adecuada ya que el switch se usa normalmente para evaluar una sola expresion contra multiplen opciones" 
