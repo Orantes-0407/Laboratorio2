@@ -1,0 +1,1 @@
+"Enunciado2: Para crear ese programa usaria la estructura if-else de forma anidadas ya que se me hace mas facil para comprender mi programa y evitar muchas lineas de codigo" 
