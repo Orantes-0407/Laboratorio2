@@ -1,0 +1,14 @@
+C:\Progra1\ProyectoOperadorLogico\ProyectoOperadorLogico\bin\Debug\net8.0\ProyectoOperadorLogico.exe
+C:\Progra1\ProyectoOperadorLogico\ProyectoOperadorLogico\bin\Debug\net8.0\ProyectoOperadorLogico.deps.json
+C:\Progra1\ProyectoOperadorLogico\ProyectoOperadorLogico\bin\Debug\net8.0\ProyectoOperadorLogico.runtimeconfig.json
+C:\Progra1\ProyectoOperadorLogico\ProyectoOperadorLogico\bin\Debug\net8.0\ProyectoOperadorLogico.dll
+C:\Progra1\ProyectoOperadorLogico\ProyectoOperadorLogico\bin\Debug\net8.0\ProyectoOperadorLogico.pdb
+C:\Progra1\ProyectoOperadorLogico\ProyectoOperadorLogico\obj\Debug\net8.0\ProyectoOperadorLogico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progra1\ProyectoOperadorLogico\ProyectoOperadorLogico\obj\Debug\net8.0\ProyectoOperadorLogico.AssemblyInfoInputs.cache
+C:\Progra1\ProyectoOperadorLogico\ProyectoOperadorLogico\obj\Debug\net8.0\ProyectoOperadorLogico.AssemblyInfo.cs
+C:\Progra1\ProyectoOperadorLogico\ProyectoOperadorLogico\obj\Debug\net8.0\ProyectoOperadorLogico.csproj.CoreCompileInputs.cache
+C:\Progra1\ProyectoOperadorLogico\ProyectoOperadorLogico\obj\Debug\net8.0\ProyectoOperadorLogico.dll
+C:\Progra1\ProyectoOperadorLogico\ProyectoOperadorLogico\obj\Debug\net8.0\refint\ProyectoOperadorLogico.dll
+C:\Progra1\ProyectoOperadorLogico\ProyectoOperadorLogico\obj\Debug\net8.0\ProyectoOperadorLogico.pdb
+C:\Progra1\ProyectoOperadorLogico\ProyectoOperadorLogico\obj\Debug\net8.0\ProyectoOperadorLogico.genruntimeconfig.cache
+C:\Progra1\ProyectoOperadorLogico\ProyectoOperadorLogico\obj\Debug\net8.0\ref\ProyectoOperadorLogico.dll
